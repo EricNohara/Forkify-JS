@@ -130,10 +130,6 @@ const controlAddCart = function () {
   alert('Sorry, this feature has not yet been implemented ⚠');
 };
 
-const newFeature = function () {
-  console.log('Welcome to the application');
-};
-
 const init = function () {
   bookmarksView.addHandlerRender(controlBookmarks);
   recipeView.addHandlerRender(controlRecipes);
@@ -143,7 +139,6 @@ const init = function () {
   paginationView.addHandlerClick(controlPagination);
   addRecipeView.addHandlerUpload(controlAddRecipe);
   cartView.addHandlerCartBtn(controlAddCart);
-  newFeature();
 };
 init();
 
