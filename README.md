@@ -2,7 +2,7 @@
 
 ## Description:
 
-Recipe application with custom recupe uploads, written in vanilla JS, HTML, CSS, and in a MVC architecture.
+Recipe application with custom recipe uploads, written in vanilla JS, HTML, CSS, and in a MVC architecture.
 
 ## Functionality:
 
